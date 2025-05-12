@@ -29,5 +29,10 @@ export const foodOptions: FoodOption[] = [
   { name: "土豆红烧肉", english: "Braised Pork with Potatoes", color: "#E59866" },
   { name: "白灼虾", english: "Poached Shrimp", color: "#FAE5D3" },
   { name: "可乐鸡翅", english: "Cola Chicken Wings", color: "#D98880" },
-  { name: "炒西兰花", english: "Stir-fried Broccoli", color: "#7DCEA0" }
+  { name: "炒西兰花", english: "Stir-fried Broccoli", color: "#7DCEA0" },
+  { name: "喝稀饭", english: "Drink Porridge", color: "#F5E9D3" },
+  { name: "点外卖", english: "Order Takeout", color: "#F1948A" }
+
+
+
 ];
